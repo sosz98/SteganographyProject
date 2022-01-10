@@ -1,0 +1,5 @@
+﻿  ProjektSteganografia.cpp
+C:\Users\asosz\source\repos\ProjektSteganografia\ProjektSteganografia\ProjektSteganografia.cpp(86,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asosz\source\repos\ProjektSteganografia\ProjektSteganografia\ProjektSteganografia.cpp(122,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asosz\source\repos\ProjektSteganografia\ProjektSteganografia\ProjektSteganografia.cpp(149,23): warning C4018: '<': signed/unsigned mismatch
+  ProjektSteganografia.vcxproj -> C:\Users\asosz\source\repos\ProjektSteganografia\Debug\ProjektSteganografia.exe
