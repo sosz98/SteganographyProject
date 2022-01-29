@@ -365,7 +365,7 @@ void writeLastFileTimestamp(const char* path) {
 void printProgramsManual() {
     std::cout << "\n";
     std::cout << "Project: \"Steganography\"\n";
-    std::cout << "Author: Artur Soszynski\n";
+    std::cout << "Author: Artur Soszynski, s23632\n";
     std::cout << "\n\n";
     std::cout << "This program works with bmp or ppm file. Every other format is not supported\n";
     std::cout << "Hidden message starts with string \"BOF\", and ends on \"EOF\".\n";
@@ -386,6 +386,7 @@ void printProgramsManual() {
     std::cout << "Flag \" - h\" or \"--help\" which takes no arguments and provides program's manual.\n";
     std::cout << "Attention! Program does not support combining flags. Every attempt of mixing functions or\n";
     std::cout << "running the program with wrong arguments will lead to failure.\n\n";
+
 
 }
 
